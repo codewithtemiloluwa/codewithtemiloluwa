@@ -4,11 +4,9 @@
 
 <p align="left">
   <a href="https://github.com/codewithtemiloluwa">
-    <img src="https://img.shields.io/github/followers/codewithtemiloluwa?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/codewithtemiloluwa?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/codewithtemiloluwa">
-    <img src="https://komarev.com/ghpvc/?username=codewithtemiloluwa&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=codewithtemiloluwa&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
 
 > **Building digital products. Breaking problems down. Securing what matters.**
